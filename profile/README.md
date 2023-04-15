@@ -6,5 +6,3 @@ This is our gamedev.js game jam 2023 organization, which might be reused in the 
 Averse/AverseABFun: A 13-year-old Minnesota coder and hacker.
 
 <!-- Psst - people in the team! Add info about yourself here! -->
-
-May: A 20-years-old programming student.
